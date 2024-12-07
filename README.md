@@ -2,4 +2,4 @@
 
 this is some text from sam
 
-this is also some text, hello!
+you really shouldn't edit directly in github.
